@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farbod Salmani</h1>
 <h3 align="center">A passionate Web designer from iran</h3>
-<img src="https://giphy.com/embed/SpopD7IQN2gK3qN4jS" align="right" width="480px" height="307px" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/website-SpopD7IQN2gK3qN4jS">via GIPHY</a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farbod202020&label=Profile%20views&color=0e75b6&style=flat" alt="farbod202020" /> </p>
 
 - 🌱 I’m currently learning **Php,python,sql**
